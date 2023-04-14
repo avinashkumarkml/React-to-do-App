@@ -1,0 +1,10 @@
+.container {
+  margin-top: 10vh;
+  height: 50vh;
+  width: 50vh;
+  text-align: center;
+  margin-left: 30vh;
+  font-size: 2.2vh;
+  flex: 4;
+  /* font-weight: bold; */
+}

@@ -1,0 +1,19 @@
+.container {
+    height: 8vh;
+    width: 100vw;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(21, 201, 201);
+    background-color: gainsboro;
+   
+
+  }
+
+  .logo{
+    cursor: pointer;
+  }
+  
+  
+  
